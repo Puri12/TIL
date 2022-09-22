@@ -3,10 +3,20 @@
 > 2022-09-23 ~ WIP
 
 ### Tag
+
 ---
 
+* [git](#git)
 
-### 참고한 Repository 🙏
+---
+
+### git
+
+* [commit 명령어 사용법](git/commit-명령어-사용법.md)
+
+---
+
+#### 참고한 Repository 🙏
 
 * [jbranchaud/til](https://github.com/jbranchaud/til)
 
