@@ -7,12 +7,17 @@
 ---
 
 * [git](#git)
+* [항해99](#항해99)
 
 ---
 
 ### git
 
 * [commit 명령어 사용법](git/commit-명령어-사용법.md)
+
+### 항해99
+
+* [week2 Java 과제](HangHae99/week2-Java-과제.md)
 
 ---
 
