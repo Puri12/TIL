@@ -46,6 +46,21 @@ double var2 = 2;
 4번째 줄에서 결과값을 저장할 때 형 변환을 진행하기 때문에 `var1, var2`를 처음부터 `double`형으로\
 선언하여 해결이 가능합니다.
 
+#### 최종 해결코드
+```Java
+public class test1 {
+    public static void main(String[] args) {
+        int var1=5;
+        int var2=2;
+        double var3 = (double) var1/var2;
+//        int / int = int 의 값이 나오므로 Double로 형변환을 시켜주면 됩니다
+        int var4 = (int)(var3*var2);
+        System.out.println(var4);
+    }
+}
+
+```
+
 ---
 
 ## 문제 2
