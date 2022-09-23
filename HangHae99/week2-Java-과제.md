@@ -134,7 +134,7 @@ public class test3 {
             int num1 = (int)(Math.random() * 6) + 1;
             int num2 = (int)(Math.random() * 6) + 1;
             System.out.println("("+ num1 +"," + num2 +")");
-//          또 다른 출렵방법
+//          또 다른 출력방법
 //          System.out.printf("(%d,%d)\n", num1, num2);
             sum = num1 + num2;
         }
