@@ -17,6 +17,7 @@
 
 ### 항해99
 
+* [week1 회고](HangHae99/week1-WIL-회고.md)
 * [week2 Java 과제](HangHae99/week2-Java-과제.md)
 
 ---
