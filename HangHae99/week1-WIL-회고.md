@@ -8,12 +8,12 @@
 
 ## API
 
-[API](..Web/API.md)
+[API](../Web/API.md)
 
 ## Algorithm
-[2016년](../Algorithm/2016.md)\
-[나누어 떨어지는 숫자 배열](../Algorithm/나누어-떨어지는-숫자-배열.md)\
-[수박수박수박수박수박수](../Algorithm/수박수박수박수박수박수.md)
+[2016년](../Algorithm/programmers/2016.md)\
+[나누어 떨어지는 숫자 배열](../Algorithm/programmers/나누어-떨어지는-숫자-배열.md)\
+[수박수박수박수박수박수](../Algorithm/programmers/수박수박수박수박수박수.md)
 
 ## 한주 돌아보기
 
