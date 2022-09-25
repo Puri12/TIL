@@ -56,7 +56,7 @@ Claim은 key-value의 형식으로 이루어진 한 쌍의 정보입니다.
 
 ### 3. Signature
 
-```Json
+```
 HMACSHA256(
   base64UrlEncode(Header) + "." +
   base64UrlEncode(Payload),
@@ -67,5 +67,5 @@ HMACSHA256(
 시그니처는 (헤더 + 페이로드)와 서버에서 가지고 있는 key 값을 합친 것을 헤더에서 정의한 알고리즘으로 암호화 한 값을 가지고 있다.
 
 #### 참고한 자료
-[JWT Introjuction](https://jwt.io/introduction)
+[JWT Introjuction](https://jwt.io/introduction)\
 [[WEB] 📚 JWT 토큰 인증 이란? - 💯 이해하기 쉽게 정리](https://inpa.tistory.com/entry/WEB-%F0%9F%93%9A-JWTjson-web-token-%EB%9E%80-%F0%9F%92%AF-%EC%A0%95%EB%A6%AC)
